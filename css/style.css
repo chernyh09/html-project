@@ -1,0 +1,28 @@
+.стиль1
+      h1 {
+    font-family: "Comic Sans MS", cursive 	;
+    font-weight: 500;
+    font-style: italic;
+   }
+   
+   .стиль2 {
+    font: 13pt COMIC SANS MS ; 
+   } 
+   
+
+   .стиль3 {
+    font: 13pt COMIC SANS MS;  
+   } 
+   
+   
+   .стиль4 {
+    font: 13pt COMIC SANS MS;  
+   } 
+   body{
+    background-image: url(http://dieta-espanola.com/wp-content/uploads/2015/04/26.jpg);
+   }
+   .picture{
+    width:350;
+     height:210;
+     
+   }
